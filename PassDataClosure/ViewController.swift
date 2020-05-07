@@ -49,6 +49,7 @@ class ViewController: UIViewController {
         self.navigationController?.pushViewController(main, animated: true)
     }
     
-   // bạn đã làm rất tốt 
+   // bạn đã làm rất tốt
+    // cam ơn bạn đã giúp tôi
 }
 
